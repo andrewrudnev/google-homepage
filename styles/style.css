@@ -1,0 +1,104 @@
+#content {
+	position: relative;
+	margin: auto;
+	width: 50%;
+}
+
+#content #logo {
+	margin-top: 200px;
+	margin-left: 33%;
+}
+
+#nav_bar p, #nav_bar a, #nav_bar img {
+	display: inline-block;
+	text-decoration: none;
+	color: #666;
+	padding-left: 10px;
+	font-family: arial,sans-serif;
+	font-size: 13px;
+	color: #000;
+	opacity: .75;
+}
+
+#nav_bar {
+	float: right;
+	padding-right: 20px;
+}
+
+#nav_bar img {
+	padding-top: 5px;
+	height: 24px;
+	width: 24px;
+}
+
+#nav_bar img {
+	border-radius: 25px;
+}
+
+form {
+	padding-top: 10px;
+}
+
+#content form img {
+	position: relative;
+	top: 10px;
+	right: 10px;
+	width: 20px;
+	height: 30px;
+	top
+}
+
+#content form input {
+	position: relative;
+	display: inline-block;
+	height: 30px;
+	width: 540px;
+	left: 4%;
+	margin-left: 10%;
+}
+
+#content form #button_l, #content form #button_r {
+	-webkit-appearance: none;
+	-moz-appearance: none;
+
+	position: relative;
+	display: inline-block;
+	width: 140px;
+	top: 40px;
+}
+
+#footer #left {
+	float: left;
+}
+
+#footer #right {
+	float: right;
+}
+
+#footer #left a {
+	padding-left: 20px;
+}
+
+#footer #right a {
+	padding-right: 20px;
+}
+
+#footer a {
+	color: #666;
+	display: inline-block;
+	text-decoration: none;
+}
+
+#footer a:hover {
+	text-decoration: underline;
+}
+
+#footer {
+	bottom: 0;
+	position: absolute;
+	width: 99%;
+	padding: 10px 0;
+	background-color: #f2f2f2;
+	font-family: arial,sans-serif;
+	font-size: small;
+}
